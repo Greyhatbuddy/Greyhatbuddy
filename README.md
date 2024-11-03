@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Buddy
 - 👀 I’m interested in Cybersecurity 
-- 🌱 I’m currently learning Programming Languages
--    and Machine learning 
+- 🌱 I’m currently learning Programming Languages and Machine learning 
 - 💞️ I’m looking to collaborate on Nothing 
 
 
